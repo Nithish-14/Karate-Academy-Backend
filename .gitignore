@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules/
+
+# Built files
+dist/
+build/
+
+# Environment variables
+.env
+
+# Log files
+logs/
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+db.sql
+
+Karate Academy.postman_collection.json
