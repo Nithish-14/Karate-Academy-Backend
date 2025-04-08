@@ -35,3 +35,7 @@ To run this application locally, follow these steps:
    npm start
 
 7. Open your browser and navigate to **http://localhost:3000** to view the application.
+
+
+📚 [View Full API Documentation](./API_DOC.md)
+
